@@ -31,7 +31,7 @@ This tool uses a pre-trained AI model from HuggingFace (`roberta-fake-news-class
 **1. Clone the repo**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fake-news-detector.git
+git clone https://github.com/Strawheart1/fake-news-detector.git
 cd fake-news-detector
 ```
 
